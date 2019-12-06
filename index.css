@@ -1,0 +1,8 @@
+    body {
+    	margin: 0;
+    }
+
+    #lol{
+        background-image: linear-gradient(to bottom right, rgb(10, 132, 255), rgb(191, 90, 242));
+        color: white;
+    }
